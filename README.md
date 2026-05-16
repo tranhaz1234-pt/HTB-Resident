@@ -90,7 +90,7 @@ Sau khi hoàn thành các bước cài đặt môi trường hạ tầng ở tr�
 ---
 
 ### 🧮 Công cụ Wiki BĐS & Tính lãi vay
-![Giao diện công cụ Wiki BĐS](images/z7832467816286_f507946e6c3d013690a99a6f9209e9aa.jpg)
+![Giao diện công cụ Wiki BĐS](images/z7832467816286_f507946e6c3d013690a99a6f9209e9aa.jpeg)
 
 ---
 
