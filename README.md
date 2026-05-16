@@ -90,17 +90,17 @@ Sau khi hoàn thành các bước cài đặt môi trường hạ tầng ở tr�
 ---
 
 ### 🧮 Công cụ Wiki BĐS & Tính lãi vay
-![Giao diện công cụ Wiki BĐS](images/z7832467816286_f507946e6c3d013690a99a6f9209e9aa.jpeg)
+![Giao diện công cụ Wiki BĐS](img/z7832467816286_f507946e6c3d013690a99a6f9209e9aa.jpg)
 
 ---
 
 ### 📇 Danh bạ môi giới & Chủ đầu tư
-![Giao diện danh bạ](images/z7832467816287_9e79e2b49502f4e27f6b7b7836269208.jpg)
+![Giao diện danh bạ](img/z7832467816287_9e79e2b49502f4e27f6b7b7836269208.jpg)
 
 ---
 
 ### 📰 Trang Tin tức thị trường
-![Giao diện tin tức](images/z7832467816290_5007884bdc9407aaf88715f203d9768b.jpg)
+![Giao diện tin tức](img/z7832467816290_5007884bdc9407aaf88715f203d9768b.jpg)
 
 ---
 
