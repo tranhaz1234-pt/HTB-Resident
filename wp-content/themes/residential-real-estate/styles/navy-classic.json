@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Navy-Classic",
+	"version": 2,
+	"settings": {
+	  "color": {
+		"palette": [
+			{
+				"slug": "background",
+				"color": "#000000",
+				"name": "Background"
+			},
+			{
+				"slug": "foreground",
+				"color": "#ffffff",
+				"name": "Foreground"
+			},
+			{
+				"slug": "extra-primary",
+				"color": "#002244",
+				"name": "Extra Primary"
+			},
+			{
+				"slug": "extra-secondary",
+				"color": "#a3c2c2",
+				"name": "Extra Secondary"
+			},
+			{
+				"slug": "primary",
+				"color": "#0d0c0c",
+				"name": "Primary"
+			},
+			{
+				"slug": "secondary",
+				"color": "#181818",
+				"name": "Secondary"
+			}
+		]
+	  }
+	}
+  }
+  

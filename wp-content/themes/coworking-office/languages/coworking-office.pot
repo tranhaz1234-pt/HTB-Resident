@@ -1,0 +1,683 @@
+# Copyright (C) 2026 LegacyThemes
+# This file is distributed under the GNU General Public License v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coworking Office 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/coworking-office\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-24T11:18:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: coworking-office\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Coworking Office"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.legacytheme.net/products/coworking-office"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "LegacyThemes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.legacytheme.net"
+msgstr ""
+
+#: functions.php:42
+msgid "Banner"
+msgstr ""
+
+#: functions.php:49
+#: patterns/footer.php:36
+#: patterns/header.php:113
+msgid "Services"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Back to Homepage"
+msgstr ""
+
+#: patterns/archive-title.php
+msgctxt "Pattern title"
+msgid "Archive Title"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr ""
+
+#: patterns/archive.php:53
+#: patterns/index.php:53
+msgid "No posts found in this category."
+msgstr ""
+
+#: patterns/archive.php:57
+#: patterns/index.php:57
+msgid "Try browsing other categories or check out our latest content."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "useful links"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "About us"
+msgstr ""
+
+#: patterns/footer.php:32
+#: patterns/header.php:115
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/footer.php:40
+#: patterns/header.php:117
+msgid "Blogs"
+msgstr ""
+
+#: patterns/footer.php:49
+msgid "Others"
+msgstr ""
+
+#: patterns/footer.php:54
+msgid "Careers"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid "Awards"
+msgstr ""
+
+#: patterns/footer.php:75
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "Is there a grace period for late arrivals?"
+msgstr ""
+
+#: patterns/footer.php:81
+#: patterns/footer.php:87
+#: patterns/footer.php:93
+#: patterns/footer.php:99
+msgid "Trusted Experience There are many variations of passages of Lorem Ipsum available."
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "How far in advance should I book?"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "What services do you offer?"
+msgstr ""
+
+#: patterns/footer.php:98
+msgid "Do I need a permit for my CA?"
+msgstr ""
+
+#: patterns/footer.php:107
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer.php:144
+msgid "© 2026 Coworking Office. Designed by LegacyThemes. All rights reserved."
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:50
+msgid "coworkingspace12@example.com"
+msgstr ""
+
+#: patterns/header.php:70
+msgid "+00 123 456 7890"
+msgstr ""
+
+#: patterns/header.php:90
+msgid "88 Broklyn Golden Street. New York"
+msgstr ""
+
+#: patterns/header.php:109
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:111
+msgid "Pages"
+msgstr ""
+
+#: patterns/header.php:119
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/hero-banner.php:16
+msgid "HIGH FACILITY CO WORKING SPACE"
+msgstr ""
+
+#: patterns/hero-banner.php:21
+msgid "CO-WORKING SPACE"
+msgstr ""
+
+#: patterns/hero-banner.php:27
+msgid "Our Services"
+msgstr ""
+
+#: patterns/hero-banner.php:32
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr ""
+
+#: patterns/homepage-blog.php
+msgctxt "Pattern title"
+msgid "Homepage Blog"
+msgstr ""
+
+#: patterns/homepage-blog.php:11
+msgid "Our Latest Blogs"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:14
+msgid "blog"
+msgstr ""
+
+#: patterns/index.php
+msgctxt "Pattern title"
+msgid "Index"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search-result.php
+msgctxt "Pattern title"
+msgid "Search Result"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:15
+msgid "Try searching for something else or refine your search terms below."
+msgstr ""
+
+#: patterns/search.php:31
+msgid "."
+msgstr ""
+
+#: patterns/search.php:59
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: patterns/search.php:63
+msgid "Try different keywords or browse our latest content below."
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:15
+msgid "Featured Workspace"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "Tailored Solutions For Your Unique Work Needs."
+msgstr ""
+
+#: patterns/services.php:32
+msgid "Dedicated Desk - Type A"
+msgstr ""
+
+#: patterns/services.php:36
+#: patterns/services.php:74
+#: patterns/services.php:112
+msgid "Ideal For Personal, Semi Private."
+msgstr ""
+
+#: patterns/services.php:41
+#: patterns/services.php:79
+#: patterns/services.php:117
+msgid " 04 Desk"
+msgstr ""
+
+#: patterns/services.php:45
+#: patterns/services.php:83
+#: patterns/services.php:121
+msgid " Free Internet"
+msgstr ""
+
+#: patterns/services.php:49
+#: patterns/services.php:87
+#: patterns/services.php:125
+msgid " Full Ac"
+msgstr ""
+
+#: patterns/services.php:55
+#: patterns/services.php:93
+#: patterns/services.php:131
+msgid "VIEW DETAILS"
+msgstr ""
+
+#: patterns/services.php:70
+msgid "Dedicated Desk - Type B"
+msgstr ""
+
+#: patterns/services.php:108
+msgid "Dedicated Desk - Type C"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/sidebar.php:26
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr ""
+
+#: patterns/single-post-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Single Post Left Sidebar"
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Slidebg"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourth"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Gray"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Muted"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Success"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Warning"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Error"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/pink.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary Gradient"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Clip"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary Duotone"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Dark Duotone"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Work Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""

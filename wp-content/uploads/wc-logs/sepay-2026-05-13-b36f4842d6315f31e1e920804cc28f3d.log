@@ -1,0 +1,4 @@
+2026-05-13T03:46:06+00:00 ERROR API request failed CONTEXT: {"context":{"error":"cURL error 7: Failed to connect to 127.0.0.1 port 9 after 2040 ms: Couldn't connect to server","endpoint":"bank-accounts"}}
+2026-05-13T03:46:25+00:00 ERROR API request failed CONTEXT: {"context":{"error":"cURL error 7: Failed to connect to 127.0.0.1 port 9 after 2031 ms: Couldn't connect to server","endpoint":"company"}}
+2026-05-13T03:46:27+00:00 ERROR API request failed CONTEXT: {"context":{"error":"cURL error 7: Failed to connect to 127.0.0.1 port 9 after 2032 ms: Couldn't connect to server","endpoint":"me"}}
+2026-05-13T03:46:45+00:00 ERROR API request failed CONTEXT: {"context":{"error":"cURL error 7: Failed to connect to 127.0.0.1 port 9 after 2044 ms: Couldn't connect to server","endpoint":"bank-accounts"}}

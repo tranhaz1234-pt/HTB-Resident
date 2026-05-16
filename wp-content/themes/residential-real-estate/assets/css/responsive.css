@@ -1,0 +1,167 @@
+/* Responsive CSS */
+
+@media screen and (max-width:1500px) and (min-width:1170px) { 
+
+
+}
+
+@media screen and (max-width:1169px) and (min-width:981px) { 
+	html{overflow-x:hidden; }
+	
+}
+
+@media screen and (max-width: 980px){
+	.fse-overlap-image{ position:relative !important; right:auto !important; bottom:auto !important; margin:25px 0 !important;}
+	.wp-block-section-01 h2, .wp-block-section-02 h2{ font-size:28px !important; }
+	.wpcf7 input[type="text"], 
+	.wpcf7 input[type="tel"], 
+	.wpcf7 input[type="email"], 
+	.wpcf7 textarea{ 
+		width:100%;
+	}	
+	.blog-area .wp-block-post-template{
+		grid-template-columns: auto auto;
+	}
+
+	
+	
+}
+@media screen and (max-width:991px){
+	.home .header-wrap{
+		position: static;
+	}
+	.header-wrap .header-logo-box .wp-block-group, .header-wrap .header-btn-box .wp-block-buttons{
+		justify-content: center;
+	}
+	.header-wrap .header-boxes{
+		flex-wrap: wrap !important;
+	}
+	.header-wrap .header-boxes:not(.is-not-stacked-on-mobile)>.header-logo-box,
+	.header-wrap .header-boxes:not(.is-not-stacked-on-mobile)>.header-mid-box,
+	.header-wrap .header-boxes:not(.is-not-stacked-on-mobile)>.header-btn-box{
+		flex-basis: 100% !important;
+	}
+	.header-wrap .header-info .header-phone-box, .header-wrap .header-info .header-mail-box{
+		flex-wrap: nowrap !important;
+	}
+	.header-wrap .header-phone-box:not(.is-not-stacked-on-mobile)>.header-phone-icon, .header-wrap .header-mail-box:not(.is-not-stacked-on-mobile)>.header-mail-icon{
+		flex-basis: 15% !important;
+	}
+	.header-wrap .header-phone-box:not(.is-not-stacked-on-mobile)>.header-phone-info, .header-wrap .header-mail-box:not(.is-not-stacked-on-mobile)>.header-mail-info{
+		flex-basis: 85% !important;
+	}
+}
+@media screen and (max-width:767px) {
+	*{box-sizing:border-box;}
+	.wp-block-navigation__responsive-container.is-menu-open.has-modal-open{ padding:25px;}
+		
+	.header-wrap .header-info {
+	  width: 290px;
+	}
+	
+	
+	.slider-section .banner-wrap{
+		align-items: center;
+		min-height: 700px !important;
+	}
+	.slider-section .banner-review-box, .slider-section .banner-left-box .slider-btn{
+		justify-content: center;
+	}
+	.slider-section .banner-left-box .slider-sub-title, .slider-section .banner-left-box .slider-head{
+		text-align: center;
+	}
+	.places-section .places-title{
+		font-size: 30px !important;
+	}
+	.slider-section .banner-left-box .slider-btn{
+		margin-top: 0 !important;
+	}
+	.slider-section .banner-left-box .slider-head{
+		font-size: 35px !important;
+	}
+	.slider-section .owl-dots{
+		top: auto;
+		bottom: 18px;
+		left: 50%;
+		transform: translateX(-50%);
+		flex-direction: row;
+		justify-content: center;
+		padding: 16px 22px;
+	}
+	.slider-section .owl-dots .owl-dot.active{
+		padding: 6px 20px;
+	}
+
+
+}	
+
+
+
+@media screen and (max-width:991px) and (min-width:768px){
+
+
+	.slider-section .banner-wrap{
+		min-height: 550px !important;
+	}
+	.slider-section .slider-boxes{
+		flex-wrap: nowrap !important;
+	}
+	.slider-section .slider-boxes:not(.is-not-stacked-on-mobile)>.banner-left-box{
+		flex-basis: 60% !important;
+	}
+	.slider-section .slider-boxes:not(.is-not-stacked-on-mobile)>.banner-right-box{
+		flex-basis: 40% !important;
+	}
+
+
+
+	.places-section .places-title{
+		font-size: 32px !important;
+	}
+	.places-section .places-boxes{
+		flex-wrap: nowrap !important;
+	}
+	.places-section .places-card .place-card-title{
+		font-size: 20px !important;
+	}
+}
+
+@media screen and (max-width:1199px) and (min-width:992px){
+
+
+
+
+	.header-wrap .header-boxes .header-mid-box{
+		flex-basis: 55% !important;
+	}
+	.header-wrap .header-boxes .header-btn-box{
+		flex-basis: 25% !important;
+	}
+
+	.slider-section .slider-boxes .banner-left-box, .slider-section .slider-boxes .banner-right-box{
+		flex-basis: 50% !important;
+	}
+
+}
+
+
+
+@media screen and (max-width:1250px) and (min-width:850px) {
+	
+
+	
+
+
+	
+
+
+	
+	
+}
+
+@media screen and (max-width:1300px) and (min-width:1px) {
+	[class*="wp-container-core-group-is-layout-"] > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+		max-width: 90%;
+	}
+	
+}

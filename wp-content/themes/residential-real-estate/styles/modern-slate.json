@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Modern-Slate",
+	"version": 2,
+	"settings": {
+	  "color": {
+		"palette": [
+			{
+				"slug": "background",
+				"color": "#000000",
+				"name": "Background"
+			},
+			{
+				"slug": "foreground",
+				"color": "#ffffff",
+				"name": "Foreground"
+			},
+			{
+				"slug": "extra-primary",
+				"color": "#3a3a3a",
+				"name": "Extra Primary"
+			},
+			{
+				"slug": "extra-secondary",
+				"color": "#6c757d",
+				"name": "Extra Secondary"
+			},
+			{
+				"slug": "primary",
+				"color": "#0d0c0c",
+				"name": "Primary"
+			},
+			{
+				"slug": "secondary",
+				"color": "#181818",
+				"name": "Secondary"
+			}
+		]
+	  }
+	}
+  }
+  
