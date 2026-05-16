@@ -70,22 +70,22 @@ Sau khi hoàn thành các bước cài đặt môi trường hạ tầng ở tr�
 (Hệ thống hình ảnh giao diện thực tế của nền tảng HTB Resident được trích xuất đồng bộ theo tài liệu báo cáo):
 
 ### 🏠 Giao diện chính & Tìm kiếm
-![Giao diện trang chủ HTB Resident](images/z7832467816291_e8162bfeadb9779d347b1a83b1b8ba5b.jpg)
+![Giao diện trang chủ HTB Resident](img/z7832467816291_e8162bfeadb9779d347b1a83b1b8ba5b.jpg)
 
 ---
 
 ### 🔍 Bộ lọc sản phẩm Bất động sản
-![Giao diện bộ lọc sản phẩm bất động sản](images/z7832468022129_523b9e1b1e488cd740e6778a6f4ccf51.jpg)
+![Giao diện bộ lọc sản phẩm bất động sản](img/z7832468022129_523b9e1b1e488cd740e6778a6f4ccf51.jpg)
 
 ---
 
 ### 📈 Phân tích đánh giá thị trường (Market Lab)
-![Giao diện phân tích đánh giá thị trường](images/z7832467956463_6045dbcf48f89f06fa5d7a1f53be560b.jpg)
+![Giao diện phân tích đánh giá thị trường](img/z7832467956463_6045dbcf48f89f06fa5d7a1f53be560b.jpg)
 
 ---
 
 ### 🏗️ Quản lý dự án đang hình thành
-![Giao diện dự án đang hình thành](images/z7832467956521_20fc40ce0b386d194ecbc8c70d751d32.jpg)
+![Giao diện dự án đang hình thành](img/z7832467956521_20fc40ce0b386d194ecbc8c70d751d32.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ Sau khi hoàn thành các bước cài đặt môi trường hạ tầng ở tr�
 ---
 
 ### 💳 Tích hợp cổng quét mã thanh toán VietQR
-![Giao diện tích hợp cổng quét mã thanh toán VietQR](images/z7832467883534_788fa7052b6f63f242173b688668410f.jpg)
+![Giao diện tích hợp cổng quét mã thanh toán VietQR](img/z7832467883534_788fa7052b6f63f242173b688668410f.jpg)
 
 ---
 
